@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript 3 related to null pointer exceptions during string concatenation. The `bug.as` file contains code that fails when passed null or undefined parameters. The `bugSolution.as` file shows how to fix this.
